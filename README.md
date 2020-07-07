@@ -1,4 +1,9 @@
 # Pacman-Like-Game
+## Project Overview
+
+This is a simple game application. The general idea of the game is a player moving in a grid of cells having obstacles cells in addition to other types of cells that you should decide during game implementation. The player has health and lives and game is only one level. 
+
+## Cell Types
 ## User Manual
 1) Open 'PT-Project' and run it.
 2) In the grid mode choose the layout as you desire by clicking **once** on the desired cell from the toolbar and then **double** click on the desired grid cell location.<br/>
