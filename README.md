@@ -3,10 +3,10 @@
 
 This is a simple game application. The general idea of the game is a player moving in a grid of cells having obstacles cells in addition to other types of cells. The player has health and lives and game is only one level. 
 
-Game Target:
+**Game Target**:
 The player is required to collect a number of items and reach a goal cell.
 
-Game Result:
+**Game Result**:
 Win: The player could collect all the required items and reaches the goal cell.
 Loss: The player lost all his lives.
 
@@ -20,6 +20,16 @@ The player is moving in a grid that is divided into a number of cells; a cell is
    ![](images/grid.PNG)
 
 ## Cell Types
+1) **BombCell** This cell decreases the health of the player
+2) **CoinCell** The player should collect these coins to increase his score
+3) **HealthCell** This cell increases the health of the player 
+4) **LifeCell** This cell will give the player one more life attempt.
+5) **ObstacleCell** the player cannot pass through this cell
+6) **EnemyCell** this cell kills the player (the only non-player moving cell, it moves randomly)
+7) **GoalCell** This cell represents the final goal where the player tries to reach it after   collection coins 
+8) **PlayerCell**
+9) **EmptyCell**
+
 ## User Manual
 1) Open 'PT-Project' and run it.
 2) In the grid mode choose the layout as you desire by clicking **once** on the desired cell from the toolbar and then **double** click on the desired grid cell location.<br/>
