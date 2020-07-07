@@ -43,4 +43,8 @@ The player is moving in a grid that is divided into a number of cells; a cell is
       ![](images/status_bar_game_mode.PNG)
 5) If in the middle of the game you decide you want to edit the grid you cn return to the grid mode using escape button on your keyboard as mentioned in the toolbar in the game mode as illustrated in the image below.<br/>
 
-      ![](images/toolbar_game_mode.PNG)
+      ![](images/toolbar_game_mode.PNG)<br/>
+      
+Note: You can find a demo video called Demo.mp4 for illustration
+      
+      
