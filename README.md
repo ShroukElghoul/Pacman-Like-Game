@@ -9,4 +9,4 @@
 3) After completely choosing the entire layout of the game and you are ready to start playing, click on the 'Ps controller' symbol in the toolbar to start the game mode.
 4) While playing you can see your progress in the status bar as shown in the image below.<br/>
 
-![](images/status_bar_game_mode.PNG)
+      ![](images/status_bar_game_mode.PNG)
