@@ -10,6 +10,12 @@ Game Result:
 Win: The player could collect all the required items and reaches the goal cell.
 Loss: The player lost all his lives.
 
+The application supports 2 modes: **Grid Mode** and **Game Mode**.<br/>
+In grid mode, the user interacts with the application through the menu icons that are in tool bar (top of the window). The application should also provide a status bar that to print messages to the user and to display game progress. 
+
+The player is moving in a grid that is divided into a number of cells; a cell is specified by its row and column.<br/>
+
+      ![](images/grid.PNG)
 
 ## Cell Types
 ## User Manual
