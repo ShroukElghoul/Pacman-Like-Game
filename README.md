@@ -45,6 +45,6 @@ The player is moving in a grid that is divided into a number of cells; a cell is
 
       ![](images/toolbar_game_mode.PNG)<br/>
       
-Note: You can find a demo video called Demo.mp4 for illustration
+Note: You can find a demo video called Demo.mp4 for illustration.
       
       
