@@ -10,5 +10,6 @@
 4) While playing you can see your progress in the status bar as shown in the image below.<br/>
 
       ![](images/status_bar_game_mode.PNG)
-5) If in the middle of the game you decide you want to edit the grid you cn return to the grid mode using escape button on your keyboard as mentioned in the toolbar in the game mode as illustrated in the image below
+5) If in the middle of the game you decide you want to edit the grid you cn return to the grid mode using escape button on your keyboard as mentioned in the toolbar in the game mode as illustrated in the image below.<br/>
+
       ![](images/toolbar_game_mode.PNG)
