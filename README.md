@@ -1,7 +1,15 @@
 # Pacman-Like-Game
 ## Project Overview
 
-This is a simple game application. The general idea of the game is a player moving in a grid of cells having obstacles cells in addition to other types of cells that you should decide during game implementation. The player has health and lives and game is only one level. 
+This is a simple game application. The general idea of the game is a player moving in a grid of cells having obstacles cells in addition to other types of cells. The player has health and lives and game is only one level. 
+
+Game Target:
+The player is required to collect a number of items and reach a goal cell.
+
+Game Result:
+Win: The player could collect all the required items and reaches the goal cell.
+Loss: The player lost all his lives.
+
 
 ## Cell Types
 ## User Manual
