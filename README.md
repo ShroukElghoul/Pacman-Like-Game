@@ -15,7 +15,7 @@ In grid mode, the user interacts with the application through the menu icons tha
 
 The player is moving in a grid that is divided into a number of cells; a cell is specified by its row and column.<br/>
 
-      ![](images/grid.PNG)
+   ![](images/grid.PNG)
 
 ## Cell Types
 ## User Manual
